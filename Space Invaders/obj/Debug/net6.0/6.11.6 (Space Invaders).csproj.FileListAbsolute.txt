@@ -1,0 +1,45 @@
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\bin\Debug\net6.0\6.11.6 (Space Invaders).exe
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\bin\Debug\net6.0\6.11.6 (Space Invaders).deps.json
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\bin\Debug\net6.0\6.11.6 (Space Invaders).runtimeconfig.json
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\bin\Debug\net6.0\6.11.6 (Space Invaders).dll
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\bin\Debug\net6.0\6.11.6 (Space Invaders).pdb
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).csproj.AssemblyReference.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).AssemblyInfoInputs.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).AssemblyInfo.cs
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).csproj.CoreCompileInputs.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).dll
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\refint\6.11.6 (Space Invaders).dll
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).pdb
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\6.11.6 (Space Invaders).genruntimeconfig.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\6.11.6 (Space Invaders)\obj\Debug\net6.0\ref\6.11.6 (Space Invaders).dll
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).exe
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).deps.json
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).runtimeconfig.json
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).dll
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).pdb
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).csproj.AssemblyReference.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).AssemblyInfoInputs.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).AssemblyInfo.cs
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).csproj.CoreCompileInputs.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).dll
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\refint\6.11.6 (Space Invaders).dll
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).pdb
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).genruntimeconfig.cache
+G:\Mi unidad\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\ref\6.11.6 (Space Invaders).dll
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).exe
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).deps.json
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).runtimeconfig.json
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).dll
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\bin\Debug\net6.0\6.11.6 (Space Invaders).pdb
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).csproj.AssemblyReference.cache
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).AssemblyInfoInputs.cache
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).AssemblyInfo.cs
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).csproj.CoreCompileInputs.cache
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).dll
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\refint\6.11.6 (Space Invaders).dll
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).pdb
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\6.11.6 (Space Invaders).genruntimeconfig.cache
+G:\My Drive\1 DAM\Programación\Segundo trimestre\Ejercicios\Ejercicios tema 6\Space Invaders\obj\Debug\net6.0\ref\6.11.6 (Space Invaders).dll
