@@ -65,6 +65,13 @@ namespace Space_Invaders
             {
                 bajando = true;
                 desplazamientoY = 0;
+                desplazamientoY++;
+            }
+
+            if (!derecha && enemigos[0, 0].x <= 1)
+            {
+                derecha = true;
+                desplazamientoY++;
             }
 
             BorrarBloque();
