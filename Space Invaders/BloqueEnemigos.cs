@@ -9,6 +9,10 @@ namespace Space_Invaders
     internal class BloqueEnemigos : Enemigo
     {
         public Enemigo[,] enemigos { get; set; }
+        private bool derecha = true;
+        private int desplazamientoY = 0;
+        private readonly int[] baseY = { 5, 7, 9 };
+
         public BloqueEnemigos()
         {
             this.enemigos = new Enemigo[3, 10];
@@ -36,42 +40,49 @@ namespace Space_Invaders
                 enemigos[2, i].Dibujar();
             }
         }
-        bool c = true;
 
         public void MoverBloque()
-        { 
-           if (enemigos[0,0].x == 1)
-           {
-                c = true;
-           }
-
-            if (enemigos[0,9].x == 118)
+        {
+            if (derecha && enemigos[0, 9].x >= 118)
             {
-                c = false;
+                derecha = false;
+                desplazamientoY++;
+            }
+
+            if (!derecha && enemigos[0, 0].x <= 1)
+            {
+                derecha = true;
+                desplazamientoY++;
             }
 
             BorrarBloque();
 
-            if (c)
-            {
-                for(int i = 0; i < enemigos.GetLength(1); i++)
-                {
-                    enemigos[0, i].MoverA(enemigos[0, i].x + 1, 5);
-                    enemigos[1, i].MoverA(enemigos[1, i].x + 1, 7);
-                    enemigos[2, i].MoverA(enemigos[2, i].x + 1, 9);
-                }
-            }
-            else
+            for (int fila = 0; fila < enemigos.GetLength(0); fila++)
             {
                 for (int i = 0; i < enemigos.GetLength(1); i++)
                 {
-                    enemigos[0, i].MoverA(enemigos[0, i].x - 1, 5);
-                    enemigos[1, i].MoverA(enemigos[1, i].x - 1, 7);
-                    enemigos[2, i].MoverA(enemigos[2, i].x - 1, 9);                   
+                    int nuevoX = derecha ? enemigos[fila, i].x + 1 : enemigos[fila, i].x - 1;
+                    int nuevoY = baseY[fila] + desplazamientoY;
+                    enemigos[fila, i].MoverA(nuevoX, nuevoY);
                 }
             }
+
             Dibujar();
         }
+
+        public int PosicionYInferior()
+        {
+            int max = 0;
+            for (int i = 0; i < enemigos.GetLength(1); i++)
+            {
+                if (enemigos[2, i].Activo && enemigos[2, i].y > max)
+                {
+                    max = enemigos[2, i].y;
+                }
+            }
+            return max;
+        }
+        
 
         public void BorrarBloque()
         {

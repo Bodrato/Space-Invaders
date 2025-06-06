@@ -14,7 +14,7 @@ namespace Space_Invaders
         {
             bool fin = false;
             Console.SetCursorPosition(25, 10);
-            Console.WriteLine("Bienvenido en Space Invaders. Pulsa intro para jugar o ESC para salir");
+            Console.WriteLine("Bienvenido a Space Invaders. Pulsa Intro para jugar o ESC para salir");
             Console.SetCursorPosition(25, 15);
             Console.WriteLine("Mejor puntuación: {0}", mejorPuntuacion);
             while (!fin)

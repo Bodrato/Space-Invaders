@@ -27,10 +27,15 @@ namespace Space_Invaders
             bool poderDisparar = true, poderDispararEnemigo = true;
             int xEnemigo = 0, yEnemigo = 0;
             int enemigosMuertos = 0;
+            bool invasion = false;
             do
             {
                 Thread.Sleep(50);
                 bloqueEnemigos.MoverBloque();
+                if (bloqueEnemigos.PosicionYInferior() >= 20)
+                {
+                    invasion = true;
+                }
                 nave.Dibujar();
                 ovni.Mover();
                 marcador.Dibujar();
@@ -70,7 +75,7 @@ namespace Space_Invaders
                             if (bloqueEnemigos.enemigos[y, x].Activo)
                                 posiciones[posicion++] = (x, y);
 
-                    int nrandom = random.Next(0, posicion - 1);
+                    int nrandom = random.Next(0, posicion);
                     (int x, int y) posicionRandom = posiciones[nrandom];
 
                     xEnemigo = posicionRandom.x; yEnemigo = posicionRandom.y;
@@ -101,9 +106,9 @@ namespace Space_Invaders
                     if (tecla.Key == ConsoleKey.RightArrow) { nave.MoverDerecha(); }
                     if (poderDisparar) { if (tecla.Key == ConsoleKey.Spacebar) { disparo.Lanzar(nave.x,Y, ref poderDisparar); } }
                 }  
-            } while(tecla.Key != ConsoleKey.Escape && marcador.Vidas != 0 && enemigosMuertos != 30);
+            } while(tecla.Key != ConsoleKey.Escape && marcador.Vidas != 0 && enemigosMuertos != 30 && !invasion);
 
-            if (marcador.Vidas == 0)
+            if (marcador.Vidas == 0 || invasion)
             {
                 Console.Clear();
                 Console.SetCursorPosition(50, 10);
