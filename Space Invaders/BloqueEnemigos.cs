@@ -10,6 +10,7 @@ namespace Space_Invaders
     {
         public Enemigo[,] enemigos { get; set; }
         private bool derecha = true;
+        private bool bajando = true;
         private int desplazamientoY = 0;
         private readonly int[] baseY = { 5, 7, 9 };
 
@@ -46,6 +47,24 @@ namespace Space_Invaders
             if (derecha && enemigos[0, 9].x >= 118)
             {
                 derecha = false;
+                desplazamientoY += bajando ? 1 : -1;
+            }
+
+            if (!derecha && enemigos[0, 0].x <= 1)
+            {
+                derecha = true;
+                desplazamientoY += bajando ? 1 : -1;
+            }
+
+            if (baseY[2] + desplazamientoY >= 20)
+            {
+                bajando = false;
+            }
+
+            if (desplazamientoY <= 0)
+            {
+                bajando = true;
+                desplazamientoY = 0;
                 desplazamientoY++;
             }
 
