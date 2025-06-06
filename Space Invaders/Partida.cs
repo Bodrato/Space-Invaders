@@ -70,7 +70,7 @@ namespace Space_Invaders
                             if (bloqueEnemigos.enemigos[y, x].Activo)
                                 posiciones[posicion++] = (x, y);
 
-                    int nrandom = random.Next(0, posicion - 1);
+                    int nrandom = random.Next(0, posicion);
                     (int x, int y) posicionRandom = posiciones[nrandom];
 
                     xEnemigo = posicionRandom.x; yEnemigo = posicionRandom.y;
