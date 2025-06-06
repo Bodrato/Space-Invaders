@@ -34,7 +34,7 @@ namespace Space_Invaders
 
         public virtual bool ColisionaCon(Sprite sprite)
         {
-            if((this.x == sprite.x && this.y == sprite.y) || (this.x+1 == sprite.x && this.y+1 == sprite.y)) { return true; }
+            if((this.x == sprite.x && this.y == sprite.y) || (this.x+1 == sprite.x && this.y == sprite.y)) { return true; }
             else { return false; }
         }
     }
